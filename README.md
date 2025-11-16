@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AtharvSuryawanshi
 - 👀 I’m interested in Computational Neuroscience and Artificial Intelligence 
 - 🌱 I’m currently an incoming student at LMU Neuroscience.
-- 📫 How to reach me: atharvsagar@iisc.ac.in
+- 📫 How to reach me: atharv.suryawanshi@campus.lmu.de
 - 😄 Pronouns: he/him
 
 <!---
